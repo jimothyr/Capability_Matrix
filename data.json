@@ -1,0 +1,303 @@
+{
+  "Matrix": {
+    "People": [
+      "Jim Lott",
+      "Archie Corliss",
+      "Linda Forbes"
+    ],
+    "Knowledge": {
+      "Energy Modelling": {
+        "Team": "BP"
+      },
+      "Passivhaus": {
+        "Team": "BP"
+      },
+      "Heat Networks": {
+        "Team": "DE"
+      },
+      "Energy Masterplanning": {
+        "Team": "DE"
+      },
+      "Energy Trading": {
+        "Team": "DE"
+      },
+      "Energy Legislation": {
+        "Team": "DE"
+      },
+      "Project Management": {
+        "Team": "All"
+      },
+      "Web Design": {
+        "Team": "WA"
+      },
+      "Electrical Design": {
+        "Team": "DE"
+      },
+      "UI/UX design": {
+        "Team": "WA"
+      },
+      "Design for print": {
+        "Team": "WA"
+      },
+      "Air testing": {
+        "Team": "BP"
+      },
+      "Web App Development": {
+        "Team": "WA"
+      }
+    },
+    "Tools": {
+      "Excel": {},
+      "Word": {},
+      "Qgis": {},
+      "CAD": {},
+      "Passivhaus (PHPP)": {},
+      "IES": {},
+      "Sketchup": {},
+      "DesignPH": {},
+      "Wrike": {},
+      "Enplanner": {},
+      "MICE": {},
+      "HLC xls": {},
+      "SBEM": {},
+      "SAP": {},
+      "FSAP": {},
+      "THERM": {},
+      "Hevacomp": {},
+      "Photoshop": {},
+      "Illustrator": {},
+      "Indesign": {},
+      "Web development": {},
+      "Acrobat writer": {}
+    },
+    "Levels": {
+      "0": "No Experience",
+      "1": "Basic User",
+      "2": "Advanced User",
+      "3": "Expert User"
+    },
+    "Relationships": {
+      "K-T": [
+        {
+          "Tool": "Excel",
+          "Knowledge": "Passivhaus",
+          "Level": 2
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Heat Networks",
+          "Level": 2
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Energy Masterplanning",
+          "Level": 1
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Energy Trading",
+          "Level": 2
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Project Management",
+          "Level": 1
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Electrical Design",
+          "Level": 2
+        },
+        {
+          "Tool": "Excel",
+          "Knowledge": "Air testing",
+          "Level": 2
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Energy Modelling",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Passivhaus",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Heat Networks",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Energy Masterplanning",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Energy Trading",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Energy Legislation",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Project Management",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Web Design",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Electrical Design",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "UI/UX design",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Design for print",
+          "Level": 1
+        },
+        {
+          "Tool": "Word",
+          "Knowledge": "Air testing",
+          "Level": 1
+        },
+        {
+          "Tool": "Qgis",
+          "Knowledge": "Heat Networks",
+          "Level": 2
+        },
+        {
+          "Tool": "Qgis",
+          "Knowledge": "Energy Masterplanning",
+          "Level": 1
+        }
+      ],
+      "U-K": [
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Heat Networks",
+          "Level": 2
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Energy Modelling",
+          "Level": 2
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Passivhaus",
+          "Level": 1
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Energy Masterplanning",
+          "Level": 3
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Energy Trading",
+          "Level": 3
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Energy Legislation",
+          "Level": 2
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Project Management",
+          "Level": 2
+        },
+        {
+          "Person": "Jim Lott",
+          "Knowledge": "Web Design",
+          "Level": 3
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Energy Modelling",
+          "Level": 1
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Passivhaus",
+          "Level": 1
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Heat Networks",
+          "Level": 2
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Air testing",
+          "Level": 0
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Web Design",
+          "Level": 0
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "Web App Development",
+          "Level": 0
+        },
+        {
+          "Person": "Archie Corliss",
+          "Knowledge": "UI/UX design",
+          "Level": 0
+        }
+      ],
+      "U-T": [
+        {
+          "Person": "Jim Lott",
+          "Tool": "Excel",
+          "Level": 3
+        },
+        {
+          "Person": "Jim Lott",
+          "Tool": "Word",
+          "Level": 3
+        },
+        {
+          "Person": "Jim Lott",
+          "Tool": "DesignPH",
+          "Level": 0
+        },
+        {
+          "Person": "Jim Lott",
+          "Tool": "Qgis",
+          "Level": 3
+        },
+        {
+          "Person": "Archie Corliss",
+          "Tool": "Qgis",
+          "Level": 2
+        },
+        {
+          "Person": "Archie Corliss",
+          "Tool": "Passivhaus (PHPP)",
+          "Level": 2
+        },
+        {
+          "Person": "Archie Corliss",
+          "Tool": "DesignPH",
+          "Level": 1
+        }
+      ]
+    }
+  }
+}
